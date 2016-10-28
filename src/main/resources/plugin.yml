@@ -1,0 +1,5 @@
+name: OMGVote
+main: me.azenet.omgvote.OMGVote
+version: 1.0.0
+authors: [azenet]
+depend: [PlotSquared]
